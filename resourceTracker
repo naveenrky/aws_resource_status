@@ -1,0 +1,14 @@
+2023-08-03 05:39:18 cliamaze
+"i-02f0883a9192c2fd1"
+{
+    "Users": [
+        {
+            "Path": "/",
+            "UserName": "navrock",
+            "UserId": "AIDAWKVYIW26ELXG7MLBZ",
+            "Arn": "arn:aws:iam::435251885756:user/navrock",
+            "CreateDate": "2023-07-31T20:12:27Z",
+            "PasswordLastUsed": "2023-08-21T06:23:36Z"
+        }
+    ]
+}
